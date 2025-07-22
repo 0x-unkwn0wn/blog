@@ -1,3 +1,4 @@
 title: Unkwn0wn
 description: Unkwn0wn blog
 theme: minima
+permalink: /:year/:month/:day/:title/
