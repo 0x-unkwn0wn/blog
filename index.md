@@ -62,4 +62,4 @@ Reflexiones, guías y tácticas sobre **ciberseguridad**.
 ### Sígueme
 
 - 📡 <a href="{{ '/feed.xml' | relative_url }}">RSS</a>
-- 🐦 <a href="[unkwn0wn](https://x.com/unkwn0wn)">X/X</a>
+- 🐦 <a href="https://x.com/unkwn0wn">Twitter/X</a>
