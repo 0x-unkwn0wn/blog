@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Blog"
+permalink: /blog/
 ---
 
 # Bienvenido al blog
