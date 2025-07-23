@@ -76,7 +76,7 @@ La resiliencia del jugador –o de la organización– se mide por su capacidad 
 
 | Objetivo | Entrenamiento ajedrecístico | Entrenamiento ciberseguridad |
 |----------|-----------------------------|------------------------------|
-| Reconocimiento preciso | Estudio de aperturas clásicas y sus ideas estratégicas | Cartografiado de superficie de ataque y discovery continuo |
+| Reconocimiento preciso | Estudio de aperturas clásicas y sus ideas estratégicas | Analisis de la superficie de ataque y discovery continuo |
 | Cálculo táctico | Resolución diaria de problemas de combinación | Laboratorio de exploits / prueba de técnicas ATT&CK |
 | Planificación | Análisis de partidas modelo de grandes maestros | Diseño de run‑books de respuesta y tabletop exercises |
 | Revisión y mejora | Anotación y autoanálisis de partidas | Post‑incident reviews e implementación de lecciones aprendidas |
