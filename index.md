@@ -1,14 +1,14 @@
 ---
 layout: default
-title: "Welcome unknown..."
+title: "Bienvenido desconocido..."
 ---
 
-# ¡Hi! 👋
+# ¡Hola! 👋
 
-I will talk here mainly about Cybersecurity.
+Aquí se habla principalmente de ciberseguridad.
 ---
 
-## Latest Posts
+## Últimos Posts
 
 <ul>
   {% for post in site.posts %}
@@ -20,8 +20,6 @@ I will talk here mainly about Cybersecurity.
 
 ---
 
-## About me
-
-I am a curious person who loves to learn, write and share knowledge.  
-If you want to know more, visit the page [about me](/about).
+## Sobre mi
+visita la página [sobre mí](/about).
 
